@@ -1,0 +1,15 @@
+.navbar{
+    background-color: forestgreen;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link{
+    color: white;
+    font-weight: bold;
+}

@@ -1,9 +1,10 @@
 import React from "react";
+import './Navbar.css';
 
 const Navbar = (props) => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-      <h1 className="navbar-brand">User Auth</h1>
+    <nav className="navbar navbar-expand-lg">
+      <h1 className="navbar-brand">Farmer's Almanac</h1>
       <button
         className="navbar-toggler"
         type="button"
