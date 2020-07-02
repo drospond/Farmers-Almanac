@@ -2,7 +2,7 @@
     "development": {
       "username": "root",
       "password": "root",
-      "database": "user_auth_db",
+      "database": "farmer_db",
       "host": "127.0.0.1",
       "dialect": "mysql",
       "operatorsAliases": false
